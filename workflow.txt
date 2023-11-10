@@ -2,3 +2,6 @@ working tree
 (git add) => staging area 
 (git commit) => local repository 
 (git push) => remote repository
+
+remote repository => (git fetch)
+local repository => (git checkout)
