@@ -1,0 +1,1 @@
+working tree => staging area => local repository => remote repository
